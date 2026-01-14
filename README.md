@@ -58,7 +58,7 @@ CRPは炎症の指標として広く用いられていますが、
 
 #### ・CRPトレンドの分類例
 #### ・群別の臨床悪化率
-#### ・CRP　start/end 変化値
+#### ・CRP　start/end 変化値　など
 
 <img width="723" height="411" alt="スクリーンショット 2026-01-14 222110" src="https://github.com/user-attachments/assets/d81316d7-2e4c-44bd-8f14-4e75e37d2dd8" />
 
