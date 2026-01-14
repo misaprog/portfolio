@@ -57,12 +57,7 @@ CRPは炎症の指標として広く用いられていますが、
 ## 5. 主な結果
 
 ### CRPトレンドの分類例
-
-（ここに `figures/crp_trend_groups.png` を表示）
-
 ### 群別の臨床悪化率
-
-（ここに `figures/deterioration_rate_by_group.png` を表示）
 
 分析の結果、
 **CRPが上昇している患者群で、臨床悪化率が最も高い**ことが確認されました。
